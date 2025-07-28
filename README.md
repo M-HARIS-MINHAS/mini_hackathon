@@ -16,6 +16,8 @@ This project was developed as part of a **mini hackathon** event organized withi
 - Practice responsive UI design using Bootstrap  
 - Work under time constraints like a real hackathon
 
+
+link to used:[dynamic-khapse-141aeb.netlify.app]
 ---
 
 ## 🔧 Technologies Used
@@ -36,7 +38,4 @@ This project was developed as part of a **mini hackathon** event organized withi
 
 ---
 
-## 📷 Screenshots
-
-> Add screenshots here by uploading images in the repository and linking them like below:
 

@@ -5,6 +5,12 @@ This project is built using **HTML, CSS, JavaScript, and Bootstrap** to showcase
 
 ---
 
+## 🔗 Live Demo
+
+👉 [Click here to view the live project](https://dynamic-khapse-141aeb.netlify.app)
+
+---
+
 ## 📌 Project Overview
 
 This project was developed as part of a **mini hackathon** event organized within the institute to encourage hands-on coding, team collaboration, and real-time problem-solving using modern web technologies.
@@ -16,8 +22,6 @@ This project was developed as part of a **mini hackathon** event organized withi
 - Practice responsive UI design using Bootstrap  
 - Work under time constraints like a real hackathon
 
-
-link to used:dynamic-khapse-141aeb.netlify.app
 ---
 
 ## 🔧 Technologies Used

@@ -17,7 +17,7 @@ This project was developed as part of a **mini hackathon** event organized withi
 - Work under time constraints like a real hackathon
 
 
-link to used:[dynamic-khapse-141aeb.netlify.app]
+link to used:dynamic-khapse-141aeb.netlify.app
 ---
 
 ## 🔧 Technologies Used
